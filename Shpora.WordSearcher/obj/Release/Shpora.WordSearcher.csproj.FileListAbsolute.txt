@@ -1,0 +1,7 @@
+C:\Users\Антон\source\repos\Shpora.WordSearcher\Shpora.WordSearcher\bin\Release\Shpora.WordSearcher.exe.config
+C:\Users\Антон\source\repos\Shpora.WordSearcher\Shpora.WordSearcher\bin\Release\Shpora.WordSearcher.exe
+C:\Users\Антон\source\repos\Shpora.WordSearcher\Shpora.WordSearcher\bin\Release\Shpora.WordSearcher.pdb
+C:\Users\Антон\source\repos\Shpora.WordSearcher\Shpora.WordSearcher\obj\Release\Shpora.WordSearcher.csprojResolveAssemblyReference.cache
+C:\Users\Антон\source\repos\Shpora.WordSearcher\Shpora.WordSearcher\obj\Release\Shpora.WordSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Shpora.WordSearcher\Shpora.WordSearcher\obj\Release\Shpora.WordSearcher.exe
+C:\Users\Антон\source\repos\Shpora.WordSearcher\Shpora.WordSearcher\obj\Release\Shpora.WordSearcher.pdb
